@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+      "@types/argparse": "^2.0.10",
+      "argparse": "^2.0.1",
+      "big-integer": "^1.6.51",
+      "circom": "^0.5.46",
+      "circom_tester": "^0.0.19",
+      "circomlib": "^2.0.5",
+      "tsc": "^2.0.4"
+    },
+    "devDependencies": {
+      "@types/node": "^20.1.1"
+    }
+  }
+  
